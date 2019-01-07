@@ -74,70 +74,59 @@ The functions which operate on numpy.array objects rely on an assumption that al
 
 ## Videos
 
-Area Maximization
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-PeN2YkvBz4" 
+target="_blank"><img src="http://img.youtube.com/vi/-PeN2YkvBz4/0.jpg" 
+alt="Area Maximization" width="240" height="180" border="10" /></a> 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=aiU6QEdkwSw" 
+target="_blank"><img src="http://img.youtube.com/vi/aiU6QEdkwSw/0.jpg" 
+alt="Sliding Contact" width="240" height="180" border="10" /></a> 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xSkG1H7c0WM" 
+target="_blank"><img src="http://img.youtube.com/vi/xSkG1H7c0WM/0.jpg" 
+alt="Beam Material Space" width="240" height="180" border="10" /></a> 
 
-[![VIDEO](https://img.youtube.com/vi/-PeN2YkvBz4/0.jpg)](https://www.youtube.com/watch?v=-PeN2YkvBz4)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NMS0pkYMyxM" 
+target="_blank"><img src="http://img.youtube.com/vi/NMS0pkYMyxM/0.jpg" 
+alt="Beam Spatial Space" width="240" height="180" border="10" /></a> 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=mTA-XLvBhs8" 
+target="_blank"><img src="http://img.youtube.com/vi/mTA-XLvBhs8/0.jpg" 
+alt="Compression Material Space" width="240" height="180" border="10" /></a> 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=IKSRQpPx3p0" 
+target="_blank"><img src="http://img.youtube.com/vi/IKSRQpPx3p0/0.jpg" 
+alt="Compression  Spatial Space" width="240" height="180" border="10" /></a> 
 
-Sliding Contact
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=a5DFJZB7bA0" 
+target="_blank"><img src="http://img.youtube.com/vi/a5DFJZB7bA0/0.jpg" 
+alt="Squeeze Material Space" width="240" height="180" border="10" /></a> 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=QrZEPO6g1Xk" 
+target="_blank"><img src="http://img.youtube.com/vi/QrZEPO6g1Xk/0.jpg" 
+alt="Squeeze Spatial Space" width="240" height="180" border="10" /></a> 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=H_ZDGscTEwU" 
+target="_blank"><img src="http://img.youtube.com/vi/H_ZDGscTEwU/0.jpg" 
+alt="Stretch Material Space" width="240" height="180" border="10" /></a> 
 
-[![VIDEO](https://img.youtube.com/vi/aiU6QEdkwSw/0.jpg)](https://www.youtube.com/watch?v=aiU6QEdkwSw)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vXNtuxYEdes" 
+target="_blank"><img src="http://img.youtube.com/vi/vXNtuxYEdes/0.jpg" 
+alt="Stretch Spatial Space" width="240" height="180" border="10" /></a> 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=smA-GyVKdwY" 
+target="_blank"><img src="http://img.youtube.com/vi/smA-GyVKdwY/0.jpg" 
+alt="Erosion Space" width="240" height="180" border="10" /></a> 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VEg_2Pak7WU" 
+target="_blank"><img src="http://img.youtube.com/vi/VEg_2Pak7WU/0.jpg" 
+alt="Liquid Space" width="240" height="180" border="10" /></a> 
 
-Beam Material Space
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=uGHfS19SZSc" 
+target="_blank"><img src="http://img.youtube.com/vi/uGHfS19SZSc/0.jpg" 
+alt="Stefan's problem" width="240" height="180" border="10" /></a> 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=mHiiumjjxbQ" 
+target="_blank"><img src="http://img.youtube.com/vi/mHiiumjjxbQ/0.jpg" 
+alt="Stefan's problem" width="240" height="180" border="10" /></a> 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=TrT6LsgwygY" 
+target="_blank"><img src="http://img.youtube.com/vi/TrT6LsgwygY/0.jpg" 
+alt="Smolarkiewicz" width="240" height="180" border="10" /></a> 
 
-[![VIDEO](https://img.youtube.com/vi/xSkG1H7c0WM/0.jpg)](https://www.youtube.com/watch?v=xSkG1H7c0WM)
-
-Beam Spatial Space
-
-[![VIDEO](https://img.youtube.com/vi/NMS0pkYMyxM/0.jpg)](https://www.youtube.com/watch?v=NMS0pkYMyxM)
-
-Compression Material Space
-
-[![VIDEO](https://img.youtube.com/vi/mTA-XLvBhs8/0.jpg)](https://www.youtube.com/watch?v=mTA-XLvBhs8)
-
-Compression  Spatial Space
-
-[![VIDEO](https://img.youtube.com/vi/IKSRQpPx3p0/0.jpg)](https://www.youtube.com/watch?v=IKSRQpPx3p0)
-
-Squeeze Material Space
-
-[![VIDEO](https://img.youtube.com/vi/a5DFJZB7bA0/0.jpg)](https://www.youtube.com/watch?v=a5DFJZB7bA0)
-
-Squeeze Spatial Space
-
-[![VIDEO](https://img.youtube.com/vi/QrZEPO6g1Xk/0.jpg)](https://www.youtube.com/watch?v=QrZEPO6g1Xk)
-
-Stretch Material Space
-
-[![VIDEO](https://img.youtube.com/vi/H_ZDGscTEwU/0.jpg)](https://www.youtube.com/watch?v=H_ZDGscTEwU)
-
-Streatch Spatial Space
-
-[![VIDEO](https://img.youtube.com/vi/vXNtuxYEdes/0.jpg)](https://www.youtube.com/watch?v=vXNtuxYEdes)
-
-Erosion Space
-
-[![VIDEO](https://img.youtube.com/vi/smA-GyVKdwY/0.jpg)](https://www.youtube.com/watch?v=smA-GyVKdwY)
-
-Liquid Space
-
-[![VIDEO](https://img.youtube.com/vi/VEg_2Pak7WU/0.jpg)](https://www.youtube.com/watch?v=VEg_2Pak7WU)
-
-Stefan Problem
-
-[![VIDEO](https://img.youtube.com/vi/uGHfS19SZSc/0.jpg)](https://www.youtube.com/watch?v=uGHfS19SZSc)
-
-[![VIDEO](https://img.youtube.com/vi/mHiiumjjxbQ/0.jpg)](https://www.youtube.com/watch?v=mHiiumjjxbQ)
-
-Smolarkiewicz
-
-[![VIDEO](https://img.youtube.com/vi/TrT6LsgwygY/0.jpg)](https://www.youtube.com/watch?v=TrT6LsgwygY)
-
-Vortex in Box
-
-[![VIDEO](https://img.youtube.com/vi/UsTTK6jSZcs/0.jpg)](https://www.youtube.com/watch?v=UsTTK6jSZcs)
-
-Zalesak Disk
-
-[![VIDEO](https://img.youtube.com/vi/52NVEzAUX6o/0.jpg)](https://www.youtube.com/watch?v=52NVEzAUX6o)
-
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=UsTTK6jSZcs" 
+target="_blank"><img src="http://img.youtube.com/vi/UsTTK6jSZcs/0.jpg" 
+alt="Vortex in Box" width="240" height="180" border="10" /></a> 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=52NVEzAUX6o" 
+target="_blank"><img src="http://img.youtube.com/vi/52NVEzAUX6o/0.jpg" 
+alt="Zalesak Disk" width="240" height="180" border="10" /></a> 
