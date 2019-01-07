@@ -1,3 +1,7 @@
+| [Developed by](#principal-developers) | [PyGrit](#python-interface) | [Videos](#videos) | 
+|--------|--------|-------|
+
+
 # GRIT
 
 
